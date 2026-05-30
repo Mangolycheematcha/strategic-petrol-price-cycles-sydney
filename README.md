@@ -120,11 +120,13 @@ a foundation for future FuelCheck-based cycle detection work.
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Status
 
 Current version: polished portfolio research report.
 
 Future version: optional reproducible data analytics extension.
+
 
 
