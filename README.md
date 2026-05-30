@@ -1,6 +1,5 @@
-<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/cda5a4df-bc91-4062-b326-0605a204f811" />!
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/cda5a4df-bc91-4062-b326-0605a204f811" />
 
-## Strategic Price Cycles in Sydney’s Retail Petrol Market
 
 
 📄 [Read the full report](Report/strategic_petrol_price_cycles_sydney_report.pdf)
