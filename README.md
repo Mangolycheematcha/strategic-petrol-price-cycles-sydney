@@ -1,5 +1,10 @@
 # Strategic Price Cycles in Sydney’s Retail Petrol Market
 
+
+📄 [Read the full report](report/strategic_petrol_price_cycles_sydney_report.pdf)
+
+🖼️ [View raw-data demo figure](figures/sydney_u91_daily_average_mar2026.png)
+
 ## Overview
 
 This repository presents an applied economics and market data analytics project examining strategic petrol price cycles in Sydney’s retail fuel market. The project began as an undergraduate economics research report and was later revised into a portfolio-style research project with updated ACCC market monitoring evidence, literature review, methodology framing and market-surveillance discussion.
