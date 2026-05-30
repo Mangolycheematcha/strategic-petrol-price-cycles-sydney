@@ -1,4 +1,4 @@
-Strategic Price Cycles in Sydney’s Retail Petrol Market
+## Strategic Price Cycles in Sydney’s Retail Petrol Market
 
 
 📄 [Read the full report](Report/strategic_petrol_price_cycles_sydney_report.pdf)
