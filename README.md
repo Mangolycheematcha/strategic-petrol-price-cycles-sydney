@@ -73,7 +73,8 @@ A future technical extension could include:
 * estimating lead-lag relationships by brand and station
 * identifying failed restorations and anomalous price movements
 * building a reproducible Python workflow
-* ## Raw Data Demonstration
+
+## Raw Data Demonstration
 
 This repository includes a small reproducibility demonstration using NSW FuelCheck monthly price history data. The first demo processes March 2026 FuelCheck data, filters for Sydney metro U91 observations, constructs a daily average price series and exports a figure.
 
