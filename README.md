@@ -94,6 +94,16 @@ a reproducible Python notebook;
 a March 2026 daily average price figure;
 a foundation for future FuelCheck-based cycle detection work.
 
+## How to Reproduce the Raw-Data Demo
+
+1. Download the March 2026 NSW FuelCheck price history CSV.
+2. Save it under `data/raw/price_history_checks_mar2026.csv`.
+3. Open `notebooks/01_fuelcheck_raw_data_demo.ipynb`.
+4. Run all cells.
+5. The notebook will generate:
+   - `data/processed/sydney_u91_daily_average_mar2026.csv`
+   - `figures/sydney_u91_daily_average_mar2026.png`
+
 ## Project Outputs
 
 - Full revised research report
