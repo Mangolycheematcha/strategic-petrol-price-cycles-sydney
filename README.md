@@ -115,8 +115,15 @@ a foundation for future FuelCheck-based cycle detection work.
 - Raw-data demo figure
 - Methodology and reproducibility roadmap
 
+## Python Dependencies
+
+```bash
+pip install -r requirements.txt
+
 ## Status
 
 Current version: polished portfolio research report.
 
 Future version: optional reproducible data analytics extension.
+
+
