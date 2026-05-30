@@ -1,7 +1,7 @@
 # Strategic Price Cycles in Sydney’s Retail Petrol Market
 
 
-📄 [Read the full report](report/strategic_petrol_price_cycles_sydney_report.pdf)
+📄 [Read the full report](strategic_petrol_price_cycles_sydney_report.pdf)
 
 🖼️ [View raw-data demo figure](figures/sydney_u91_daily_average_mar2026.png)
 
