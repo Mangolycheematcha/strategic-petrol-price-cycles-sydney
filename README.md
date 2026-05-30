@@ -94,6 +94,15 @@ a reproducible Python notebook;
 a March 2026 daily average price figure;
 a foundation for future FuelCheck-based cycle detection work.
 
+## Project Outputs
+
+- Full revised research report
+- All-figures overview image
+- FuelCheck March 2026 raw-data demonstration notebook
+- Processed Sydney U91 daily average dataset
+- Raw-data demo figure
+- Methodology and reproducibility roadmap
+
 ## Status
 
 Current version: polished portfolio research report.
