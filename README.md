@@ -1,7 +1,7 @@
 # Strategic Price Cycles in Sydney’s Retail Petrol Market
 
 
-📄 [Read the full report](strategic_petrol_price_cycles_sydney_report.pdf)
+📄 [Read the full report](Reports/strategic_petrol_price_cycles_sydney_report.pdf)
 
 🖼️ [View raw-data demo figure](figures/sydney_u91_daily_average_mar2026.png)
 
@@ -81,9 +81,18 @@ A future technical extension could include:
 
 ## Raw Data Demonstration
 
-This repository includes a small reproducibility demonstration using NSW FuelCheck monthly price history data. The first demo processes March 2026 FuelCheck data, filters for Sydney metro U91 observations, constructs a daily average price series and exports a figure.
+This repository includes a small reproducibility demonstration using NSW FuelCheck monthly price history data. The current demo processes March 2026 FuelCheck data, filters for Sydney metro U91 observations, constructs a daily average petrol price series, exports a processed CSV file, and generates a reproducible visualisation.
 
-The purpose of this section is not to replicate a full econometric price-cycle detection study. Instead, it demonstrates that the project can be extended into a reproducible data workflow using publicly available station-level fuel price data.
+This demonstration is designed as a proof of workflow rather than a full econometric price-cycle detection exercise. It shows how publicly available station-level fuel price data can be transformed into an analytical time-series output suitable for further market-cycle analysis.
+
+The March 2026 sample captures an upward price-restoration phase in Sydney U91 petrol prices, followed by a short high-price plateau. It should not be interpreted as a complete petrol price cycle because the sample does not cover a full trough-to-peak-to-trough sequence. A longer multi-month dataset would be required for formal cycle detection, lead-lag analysis, failed-restoration identification, and anomaly scoring.
+
+Outputs from this demonstration include:
+
+a cleaned daily average Sydney U91 price dataset;
+a reproducible Python notebook;
+a March 2026 daily average price figure;
+a foundation for future FuelCheck-based cycle detection work.
 
 ## Status
 
