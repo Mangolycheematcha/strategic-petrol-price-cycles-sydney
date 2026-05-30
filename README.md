@@ -1,4 +1,4 @@
-# Strategic Price Cycles in Sydney’s Retail Petrol Market
+<img width="3600" height="1800" alt="image" src="https://github.com/user-attachments/assets/a81019ba-e133-4e84-a268-3bee7eeab63e" /># Strategic Price Cycles in Sydney’s Retail Petrol Market
 
 
 📄 [Read the full report](Report/strategic_petrol_price_cycles_sydney_report.pdf)
@@ -93,9 +93,6 @@ a cleaned daily average Sydney U91 price dataset;
 a reproducible Python notebook;
 a March 2026 daily average price figure;
 a foundation for future FuelCheck-based cycle detection work.
-
-![Uploading image.png…]()
-
 
 ## How to Reproduce the Raw-Data Demo
 
