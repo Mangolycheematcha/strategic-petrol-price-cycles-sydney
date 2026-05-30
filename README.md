@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/cda5a4df-bc91-4062-b326-0605a204f811" />![Uploading 4731f36b-f974-42c6-83f4-871f928e4b43.png…]()
+
 
 ## Strategic Price Cycles in Sydney’s Retail Petrol Market
 
