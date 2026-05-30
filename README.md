@@ -94,6 +94,9 @@ a reproducible Python notebook;
 a March 2026 daily average price figure;
 a foundation for future FuelCheck-based cycle detection work.
 
+![Uploading image.png…]()
+
+
 ## How to Reproduce the Raw-Data Demo
 
 1. Download the March 2026 NSW FuelCheck price history CSV.
