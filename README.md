@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 ## Strategic Price Cycles in Sydney’s Retail Petrol Market
 
 
