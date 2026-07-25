@@ -1,2 +1,8 @@
 pandas
 matplotlib
+scipy
+openpyxl
+pytest
+nbformat
+nbclient
+ipykernel

@@ -1,0 +1,2 @@
+smoothing_window,min_peak_prominence,min_distance_between_peaks,min_cycle_amplitude,min_cycle_duration_days,max_cycle_duration_days,confirmation_window,parameter_set
+7,3.0,14,8.0,10,75,3,default_v1

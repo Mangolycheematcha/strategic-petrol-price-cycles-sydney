@@ -6,3 +6,6 @@ venv/
 .env
 .DS_Store
 Thumbs.db
+.pytest_cache/
+data/raw/fuelcheck_history/
+data/processed/clean_sydney_u91_events.csv
